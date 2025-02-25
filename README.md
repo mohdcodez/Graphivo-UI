@@ -10,9 +10,7 @@ Graphivo is a modern UI and web development agency dedicated to crafting beautif
 ✅ **Contact Us Page** – Easy communication with potential clients  
 
 ## 🖌️ Tech Stack  
-- **Design**: Figma / Adobe XD (if applicable)  
-- **Frontend**: HTML, CSS, JavaScript (mention framework if used)  
-- **Animations & UI Enhancements**: (e.g., GSAP, Tailwind, Framer Motion)  
+- **Design**: Figma
 
 ## 🎨 Screenshots  
 
